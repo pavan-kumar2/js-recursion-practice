@@ -1,0 +1,19 @@
+{
+  "name": "js-recursion-practice",
+  "version": "1.0.0",
+  "description": "Practice recursion problems in JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/factorial.test.js"
+  },
+  "keywords": [
+    "javascript",
+    "recursion",
+    "algorithms",
+    "interview-questions",
+    "data-structures"
+  ],
+  "author": "Pavan Kumar",
+  "license": "ISC"
+}
