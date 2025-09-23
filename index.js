@@ -11,6 +11,7 @@ import reverseString from "./problems/reverse-string.js";
 import flattenArray from "./problems/flatten-nested-array.js";
 import isPalindrome from "./problems/palindrome-string.js";
 import deepClone from "./problems/deep-clone-object.js"
+import traverse from "./problems/recursively-traverse-dom-tree.js";
 
 export {
     factorial,
@@ -19,5 +20,6 @@ export {
     reverseString,
     flattenArray,
     isPalindrome,
-    deepClone
+    deepClone,
+    traverse,
 }
