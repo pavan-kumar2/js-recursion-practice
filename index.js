@@ -12,6 +12,7 @@ import flattenArray from "./problems/flatten-nested-array.js";
 import isPalindrome from "./problems/palindrome-string.js";
 import deepClone from "./problems/deep-clone-object.js"
 import traverse from "./problems/recursively-traverse-dom-tree.js";
+import permute from "./problems/permutations-of-string.js";
 
 export {
     factorial,
@@ -22,4 +23,5 @@ export {
     isPalindrome,
     deepClone,
     traverse,
+    permute
 }
